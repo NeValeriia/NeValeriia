@@ -15,7 +15,6 @@ Liste de tâches avec cases à cocher, barre de recherche, tableau de bord pour 
 - Tailwind CSS : grid, flex
 
 [🌐 Démo live](https://gilded-beijinho-7af6f0.netlify.app/login) &nbsp;&nbsp; [💻 Code source](https://github.com/NeValeriia/descodeuses-todo-app)
-
 ---
 
 ### 2️⃣ **Contacts**
@@ -41,7 +40,8 @@ Gestion des factures
 - Angular : boucle for
 - Angular Material : button
 - Tailwind CSS : grid
-  [🌐 Démo live](https://descodeuses-calculatrice-app.netlify.app) &nbsp;&nbsp; [💻 Code source](https://github.com/NeValeriia/descodeuses-calculatrice-app)
+
+[🌐 Démo live](https://descodeuses-calculatrice-app.netlify.app) &nbsp;&nbsp; [💻 Code source](https://github.com/NeValeriia/descodeuses-calculatrice-app)
 ---
 
 ## 📫 Me contacter
